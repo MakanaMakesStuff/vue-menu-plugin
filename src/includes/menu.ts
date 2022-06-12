@@ -1,5 +1,3 @@
-import { AppContext } from "vue"
-
 export interface MenuItem {
     name: string
     label: string
