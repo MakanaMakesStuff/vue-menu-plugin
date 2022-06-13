@@ -19,7 +19,7 @@ eg:
 
 Menu items can be added very easily. You just need to call the `add()` method and pass an object or array of objects of type `MenuCollection` as an argument. A `MenuCollection` object should look like the following:
 ```
-{
+type MenuCollection = {
 
    menu_name: string
 
